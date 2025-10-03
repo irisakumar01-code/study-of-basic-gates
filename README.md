@@ -91,12 +91,12 @@ endmodule
 
 **RTL realization Output:**
 
-![Logic Diagram](https://github.com/user-attachments/assets/25209200-e00a-43b1-8d02-447e832e9f25)
+![Logic Diagram](https://github.com/user-attachments/assets/85c33178-cdff-49c8-929b-4e4ccb4ea529)
 
 
 **RTL**
 
-![Waveform](https://github.com/user-attachments/assets/dff374a2-2db3-401d-8ad0-26e48610b6c7)
+![Waveform](https://github.com/user-attachments/assets/ce4c9431-533b-40b2-836b-cc786ac267ae)
 
 
 **Result:**
